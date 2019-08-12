@@ -1,0 +1,403 @@
+{
+	"pages": [
+		{
+			"path": "pages/delivery/delivery",
+			"style": {
+				"navigationBarTitleText": "外卖",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/runLeg/orderList",
+			"style": {
+				"navigationBarTitleText": "跑腿订单列表"
+			}
+		},
+		{
+			"path": "pages/runLeg/helpBuyOrderDetails",
+			"style": {
+				"navigationBarTitleText": "帮买订单详情"
+			}
+		},
+		{
+			"path": "pages/runLeg/giveAwayOrderDetails",
+			"style": {
+				"navigationBarTitleText": "取送订单详情"
+			}
+		},
+		{
+			"path": "pages/runLeg/helpOrderDetails",
+			"style": {
+				"navigationBarTitleText": "代帮忙订单详情"
+			}
+		},
+		
+		
+		{
+			"path": "pages/runLeg/take",
+			"style": {
+				"navigationBarTitleText": "帮取"
+			}
+		},
+		{
+			"path": "pages/runLeg/giveAway",
+			"style": {
+				"navigationBarTitleText": "帮送"
+			}
+		},
+		{
+			"path": "pages/runLeg/helpBuy",
+			"style": {
+				"navigationBarTitleText": "帮买"
+			}
+		},
+		{
+			"path": "pages/runLeg/help",
+			"style": {
+				"navigationBarTitleText": "代帮忙"
+			}
+		},
+		{
+			"path": "pages/groupBuy/groupBuy",
+			"style": {
+				"navigationBarTitleText": "团购",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/my/collection",
+			"style": {
+				"navigationBarTitleText": "我的收藏",
+				"navigationBarBackgroundColor":"#f19837",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/home/spike",
+			"style": {
+				"navigationBarTitleText": "秒杀"
+			}
+		},
+		
+		
+		{
+			"path": "pages/home/weChatPay",
+			"style": {
+				"navigationBarTitleText": "商品支付"
+			}
+		},
+		{
+			"path": "pages/order/applyRefund",
+			"style": {
+				"navigationBarTitleText": "申请退款"
+			}
+		},
+		{
+			"path": "pages/order/refundInfo",
+			"style": {
+				"navigationBarTitleText": "退款信息"
+			}
+		},
+		{
+			"path": "pages/delivery/orderDetails",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/delivery/orderList",
+			"style": {
+				"navigationBarTitleText": "外卖订单"
+			}
+		},
+		{
+		
+			"path": "pages/order/hotelOrderDetails",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		
+		{
+		
+			"path": "pages/groupBuy/orderAssess",
+			"style": {
+				"navigationBarTitleText": "订单评价"
+			}
+		},
+		{
+		
+			"path": "pages/delivery/orderAssess",
+			"style": {
+				"navigationBarTitleText": "订单评价"
+			}
+		},
+		{
+			"path": "pages/groupBuy/orderDetails",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/groupBuy/orderList",
+			"style": {
+				"navigationBarTitleText": "团购订单"
+			}
+		},
+		
+		{
+			"path": "pages/groupBuy/confirmOrder",
+			"style": {
+				"navigationBarTitleText": "确认订单"
+			}
+		},
+		{
+			"path": "pages/groupBuy/goodsDetail",
+			"style": {
+				"navigationBarTitleText": "套餐详情"
+			}
+		},
+		{
+			"path": "pages/groupBuy/voucherDetail",
+			"style": {
+				"navigationBarTitleText": "代金券详情"
+			}
+		},
+		{
+			"path": "pages/groupBuy/assessList",
+			"style": {
+				"navigationBarTitleText": "评价列表"
+			}
+		},
+		{
+			"path": "pages/groupBuy/shopDetail",
+			"style": {
+				"navigationBarTitleText": "店铺详情"
+			}
+		},
+		{
+			"path": "pages/groupBuy/shopList",
+			"style": {
+				"navigationBarTitleText": "店铺列表",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/groupBuy/search",
+			"style": {
+				"navigationBarTitleText": "搜索商铺"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "订单",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "同城",
+				"enablePullDownRefresh": true
+			}
+		},
+		
+		
+		{
+			"path": "pages/delivery/shopList",
+			"style": {
+				"navigationBarTitleText": "商家列表",
+				"navigationBarBackgroundColor": "#ff851d",
+				"navigationBarTextStyle": "white",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/delivery/search",
+			"style": {
+				"navigationBarTitleText": "搜索商铺"
+			}
+		},
+		{
+			"path": "pages/delivery/confirmOrder",
+			"style": {
+				"navigationBarTitleText": "确认订单"
+			}
+		},
+		{
+			"path": "pages/my/addressSelect",
+			"style": {
+				"navigationBarTitleText": "地址选择"
+			}
+		},
+		{
+			"path": "pages/my/editPhone",
+			"style": {
+				"navigationBarTitleText": "修改手机"
+			}
+		},
+		{
+			"path": "pages/my/editPhone2",
+			"style": {
+				"navigationBarTitleText": "修改手机"
+			}
+		},
+		
+		{
+			"path": "pages/delivery/shopDetail",
+			"style": {
+				"navigationBarTitleText": "店铺详情"
+			}
+		},
+		{
+			"path": "pages/my/setting",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"navigationBarBackgroundColor":"#f19837",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/my/addressList",
+			"style": {
+				"navigationBarTitleText": "收货地址"
+			}
+		},
+		{
+			"path": "pages/my/addAddress",
+			"style": {
+				"navigationBarTitleText": "添加收货地址"
+			}
+		},
+		{
+			"path": "pages/my/coupon",
+			"style": {
+				"navigationBarTitleText": "我的优惠券"
+			}
+		},
+		{
+			"path": "pages/my/editInfo",
+			"style": {
+				"navigationBarTitleText": "个人信息",
+				"navigationBarBackgroundColor":"#f19837",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/user/bindPhone",
+			"style": {
+				"navigationBarTitleText": "绑定手机号"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/home/webView",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/user/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/user/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/user/protocol",
+			"style": {
+				"navigationBarTitleText": "用户协议"
+			}
+		},
+		{
+			"path": "pages/user/forget",
+			"style": {
+				"navigationBarTitleText": "忘记密码"
+			}
+		},
+		{
+			"path": "pages/my/editPassword",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+				
+			}
+		},
+		{
+			"path": "pages/my/about",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"navigationBarBackgroundColor":"#f19837",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/my/feedback",
+			"style": {
+				"navigationBarTitleText": "意见反馈",
+				"navigationBarBackgroundColor":"#f19837",
+				"navigationBarTextStyle":"white"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#FFF",
+		"backgroundColor": "#FFF"
+	},
+	"tabBar": {
+		"color": "#444444",
+		"selectedColor": "#f2a602",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/delivery/delivery",
+				"iconPath": "static/icon/tab/tab_ic_takeout.png",
+				"selectedIconPath": "static/icon/tab/tab_ic_takeouted.png",
+				"text": "外卖"
+			},{
+				"pagePath": "pages/groupBuy/groupBuy",
+				"iconPath": "static/icon/tab/tab_ic_buy.png",
+				"selectedIconPath": "static/icon/tab/tab_ic_buyed.png",
+				"text": "团购"
+			},
+			{
+				"pagePath": "pages/home/spike",
+				"iconPath": "static/icon/tab/tab_ic_Seckill.png",
+				"selectedIconPath": "static/icon/tab/tab_ic_Seckilled.png",
+				"text": "秒杀"
+			},
+			{
+				"pagePath": "pages/order/order",
+				"iconPath": "static/icon/tab/tab_ic_order.png",
+				"selectedIconPath": "static/icon/tab/tab_ic_ordered.png",
+				"text": "订单"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"iconPath": "static/icon/tab/tab_ic_me.png",
+				"selectedIconPath": "static/icon/tab/tab_ic_mine.png",
+				"text": "我的"
+			}
+		]
+	},
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [{
+			// "name": "", //模式名称
+			// "path": "pages/groupBuy/groupBuy", //启动页面，必选
+			// "query": "recommendCode=16461321345" //启动参数，在页面的onLoad函数里面得到
+		}]
+	}
+}
